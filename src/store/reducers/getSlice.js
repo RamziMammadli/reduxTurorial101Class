@@ -10,7 +10,7 @@ const getSlice = createSlice({
     name: 'getSlice',
     initialState: {},
     reducers:{
-        
+
     },
     extraReducers: (builder) => {
         builder
